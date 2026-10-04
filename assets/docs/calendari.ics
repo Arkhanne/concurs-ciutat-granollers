@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Concurs Ciutat de Granollers//XX//CA
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Concurs Ciutat de Granollers · XX edició
+BEGIN:VEVENT
+UID:2026-06-01-ccg-xx@granollers
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Concurs Ciutat de Granollers · Obertura d’inscripcions
+DESCRIPTION:Comença el termini per enviar la documentació de cada joc a través del formulari.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-31-ccg-xx@granollers
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Concurs Ciutat de Granollers · Tancament d’inscripcions · 23:59 h
+DESCRIPTION:Últim dia per enviar regles, fotografies i resum. Quota d’inscripció: 5 € per joc.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-ccg-xx@granollers
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Concurs Ciutat de Granollers · Resultat de la lectura
+DESCRIPTION:Tots els autors reben per email si el seu joc passa a la fase de prototips (màxim 20) i el TIER on ha quedat.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-ccg-xx@granollers
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Concurs Ciutat de Granollers · Enviament del prototip
+DESCRIPTION:Els seleccionats envien el prototip físic i paguen 10 €. També poden enviar una versió millorada de les regles.
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-ccg-xx@granollers
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Concurs Ciutat de Granollers · Anunci dels 6 finalistes
+DESCRIPTION:L’equip de testeig tria un màxim de 6 jocs per a la final.
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-ccg-xx@granollers
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Concurs Ciutat de Granollers · Regles finals dels finalistes
+DESCRIPTION:Últim dia perquè els finalistes enviïn les regles actualitzades a concursjocs@granollers.cat.
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-ccg-xx@granollers
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Concurs Ciutat de Granollers · Resum final per a les editorials
+DESCRIPTION:Els finalistes poden actualitzar el resum: és el que rebran les editorials.
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-ccg-xx@granollers
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Concurs Ciutat de Granollers · Final i cerimònia de lliurament
+DESCRIPTION:El jurat juga els 6 finalistes i anuncia el guanyador i els accèssits a Granollers (18–20 h).
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-ccg-xx@granollers
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Concurs Ciutat de Granollers · Fitxes a les editorials amigues
+DESCRIPTION:Totes les editorials del programa reben la fitxa de cada finalista per contactar amb els autors.
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-ccg-xx@granollers
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Concurs Ciutat de Granollers · Consultes de les editorials
+DESCRIPTION:Últim dia perquè les editorials demanin al jurat més detalls sobre els finalistes.
+END:VEVENT
+END:VCALENDAR
